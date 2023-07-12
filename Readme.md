@@ -1,0 +1,2 @@
+# Experiments
+This is a repo containing various experiments that I will try to make as scientific as possible. They can really be experiments with anything, but I'm thinking having them all in the same repo might help with organization.
