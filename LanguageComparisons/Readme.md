@@ -1,0 +1,4 @@
+# Relative Comparisons and Visualizations of Language Metrics
+
+## Abstract
+There arose a need for me to measure and compare various langauges, and this is best done through visualizations. The goal is to find the strengths and weaknesses of each language for various tasks. As natural language is incredibly complex, we can expect that different languages would enable their users in different directions, and so quantification of these directions is the goal. Language influences navigation through the abstract world of thought, and thus understanding the tradeoffs between languages may allow for different ways of thinking. This increased clarity might also inform wider research into artificial intelligence and culture.
